@@ -1,3 +1,3 @@
 # DITA-Side-Project-Repository
 DITA Side Project Repository
-Slack Connection Test
+Slack Connection Testing
